@@ -1,0 +1,9 @@
+{
+  "name": "lunara-perfume-house",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lunara perfume store frontend assignment submission.",
+  "scripts": {
+    "serve": "python3 -m http.server 4173"
+  }
+}
